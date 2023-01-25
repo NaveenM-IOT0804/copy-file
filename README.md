@@ -19,6 +19,10 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```
+'''
+Developed by: Naveen M
+Reference number: 22000748
+'''
 with open("sample1.txt", "r") as firstfile:
     with open("sample2.txt", "a") as secondfile:
         for line in firstfile:
@@ -27,7 +31,7 @@ with open("sample1.txt", "r") as firstfile:
 
 ### OUTPUT:
 
-![Screenshot from 2023-01-23 13-43-30](https://user-images.githubusercontent.com/117974950/213993382-58dd3b89-564b-4357-9f14-6b52f70d6421.png)
+![expc](https://user-images.githubusercontent.com/117974950/214614706-675dd1c2-ca11-4186-b6f4-97a33d451744.png)
 
 ![sample1](https://user-images.githubusercontent.com/117974950/213993436-d06dd6cd-69ce-437d-81c8-2aca7852be14.png)
 
